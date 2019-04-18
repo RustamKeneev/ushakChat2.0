@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">MixChat</string>
+    <string name="user_name">Имя пользователя</string>
+    <string name="greate_new_account">Создайте новый аккаунт</string>
+    <string name="Email_user">Электронная почта пользователя</string>
+    <string name="password_user">Пароль пользователя</string>
+    <string name="register">зарегистрироваться</string>
+    <string name="login">Войти</string>
+    <string name="enter_login_text">Вход приложению</string>
+    <string name="chat">Чат</string>
+    <string name="login_in">авторизоваться</string>
+    <string name="please_login_in">Пожалуйста, войдите</string>
+    <string name="text_for_developer">Чат для разработчиков</string>
 </resources>
